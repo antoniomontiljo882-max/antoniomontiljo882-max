@@ -8,20 +8,14 @@ I enjoy creating practical software tools while learning software architecture a
 
 ## 🔧 Projects
 
+**Email Automation System**  
+Python tool using IMAP to fetch, inspect and manage email headers.
+
 **Personal Vocabulary Intelligence System**  
 A CLI tool that analyzes books and identifies unknown vocabulary based on personal word lists.
 
 **Python Duplicate Finder**  
 Tool to detect and move duplicate files using hashing.
-
-**Email Automation System**  
-Python tool using IMAP to fetch, inspect and manage email headers.
-
-**CLI Friseurkalender**  
-Command line appointment manager with JSON persistence.
-
-**Blackjack (OOP)**  
-Blackjack game built using object-oriented Python design.
 
 ---
 
